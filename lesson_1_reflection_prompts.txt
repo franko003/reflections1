@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was able to show only the differences in the code of the two different versions.  Therefor it saved alot of time and made it very visual as far as the mistake.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It will save a ton of time in the long run.  Being able to see each change that is made over time.  It will be good for me because i have not been great at making notes and keeping my code and changes consistent.  Sometimes i get going on something and make a bunch of changes and then when they dont work its hard to figure out what you did right or wrong.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    If its doing it automatically it seems pointless because you will never know where you were at in your process at the time.  Might be actually writing code when it happens.  The idea of manually doing it and being able to leave some notes is perfect.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Seems to me that Git is more geared toward coders whereas some of the other version control systems are for regular every day use.  When you are coding something it makes alot of sense to need to see all of the changes to all of your files on one project together.  Whereas every day use rarely needs that type of coverage.  
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log will give the entire log of each version committed and git diff will show the differences between any two versions.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Obviously knowing that you can go back at anytime to something you know is right and be able to see all the specific changes is a pretty powerful idea in coding.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use Git once i begin my full stack web developer nanodegree program

@@ -1,0 +1,27 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a .git file that is in the background.  This will allow us to commit and do version control going forward.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working directory is just the directory you are currently in.  The repository is all of your files.  The staging area is only those files you specifically add in order to committ.  Allows you to choose which files to committ which could help you in separating certain things and only saving certain changes that all go with one concept.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can only put the files in the staging area that are consistent with the logical change.  Therefore you can leave any files alone that dont have anything to do with your logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+I would think that branches would be helpful when you have a new idea for your project but you are not interested in giving up on the old idea.  This would allow you to go a different direction and see where it takes you without giving up too much.
+
+How do the diagrams help you visualize the branch structure?
+
+Probably not a bad idea to draw a diagram or look at the output of the diagram of your branches in a graph in order to keep things organized from time to time and remember where you are and what is where.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+merging two branches allows you to reintroduce a bunch of changes you may have made on a branch with your main project without losing any of the project itself or the branch work.  The diagram representation is very accurate because the project branches off and then comes back together.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The automatic merging is a pretty ridiculously robust concept to me.  It seems extremely powerful and helpful.  When the idea of merging first came up in the class i thought it sounded very complicated, having it be as easy as it is is unbelieveable.  Even the "con" of it not working all the time makes sense because you would want to review things manually in the cases that a conflict arises.
